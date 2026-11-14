@@ -1,4 +1,3 @@
-
 <!-- ================================================= -->
 <!--                HEADER / DASHBOARD                 -->
 <!-- ================================================= -->
@@ -30,6 +29,8 @@ Transformando datos en información para tomar decisiones.
 
 ## 01. Sobre mí
 
+Estudiante de Ingeniería Electrónica con interés en el análisis de datos y la tecnología.<br>Cuento con conocimientos en SQL, Python, Excel y Power BI para la limpieza, análisis y visualización de datos.
+<br>Comprometido con el aprendizaje continuo y la resolución de problemas mediante soluciones basadas en datos.<br>En este repositorio comparto proyectos personales, académicos y colaborativos que reflejan mi compromiso con la mejora continua y el aprendizaje constante ante los cambios tecnológicos.
 Estudiante de Ingeniería Electrónica con interés en el análisis de datos y la tecnología. Cuento con conocimientos en SQL, Python, Excel y Power BI para la limpieza, análisis y visualización de datos.
 <br>Comprometido con el aprendizaje continuo y la resolución de problemas mediante soluciones basadas en datos.En este repositorio comparto proyectos personales, académicos y colaborativos que reflejan mi compromiso con la mejora continua y el aprendizaje constante ante los cambios tecnológicos.
 
@@ -46,7 +47,7 @@ Estudiante de Ingeniería Electrónica con interés en el análisis de datos y l
 
 ## 02. Tecnologías y herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div align="center">
 
 ### DATA ANALYTICS
 
