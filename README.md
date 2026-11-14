@@ -1,18 +1,116 @@
-# 💫 About Me:
-Estudiante de Ingeniería Electrónica con interés en el análisis de datos y la tecnología.<br>Cuento con conocimientos en SQL, Python, Excel y Power BI para la limpieza, análisis y visualización de datos.<br>He desarrollado proyectos de análisis de datos utilizando Databricks para identificar patrones y generar información útil para la toma de decisiones.<br>Comprometido con el aprendizaje continuo y la resolución de problemas mediante soluciones basadas en datos.<br>En este repositorio comparto proyectos personales, académicos y colaborativos que reflejan mi compromiso con la mejora continua y el aprendizaje constante ante los cambios tecnológicos.
 
+<!-- ================================================= -->
+<!--                HEADER / DASHBOARD                 -->
+<!-- ================================================= -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alex-d-9749192aa/) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Alexjr-d&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Alexjr-d&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alexjr-d&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# ALEX DIAZ
+
+### Data Analyst | SQL | Python | Power BI
+
+**Estudiante de Ingeniería Electrónica | Lima, Perú**
+
+Transformando datos en información para tomar decisiones.
+
+<br>
+
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-142B3A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Alexjr-d&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ================================================= -->
+<!--                    SOBRE MÍ                       -->
+<!-- ================================================= -->
+
+## 01. Sobre mí
+
+Soy estudiante de Ingeniería Electrónica con orientación al análisis de datos y la tecnología. Me interesa transformar grandes volúmenes de información en insights que contribuyan a una mejor toma de decisiones.
+
+- Análisis, limpieza y transformación de datos.
+- Consultas SQL y análisis exploratorio con Python.
+- Desarrollo de reportes y dashboards en Excel y Power BI.
+- Aprendizaje continuo y resolución de problemas.
+
+---
+
+<!-- ================================================= -->
+<!--             TECNOLOGÍAS Y HERRAMIENTAS             -->
+<!-- ================================================= -->
+
+## 02. Tecnologías y herramientas
+
+<div align="center">
+
+### DATA ANALYTICS
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+<br>
+
+### PLATAFORMAS Y HERRAMIENTAS
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                PROYECTOS DESTACADOS                -->
+<!-- ================================================= -->
+
+## 03. Proyectos destacados
+
+### Análisis de cancelaciones hoteleras
+
+**Objetivo:** Identificar patrones de cancelación y cuantificar su impacto económico mediante el análisis de reservas hoteleras.
+
+| Indicador | Descripción |
+|:---|:---|
+| Dataset | 119,390 reservas |
+| Herramientas | SQL, Python, Databricks |
+| Procesamiento | Limpieza y transformación |
+| Análisis | JOINs, indicadores y tasas de cancelación |
+
+<div align="center">
+
+<a href="https://github.com/Alexjr-d/Project-SQL-Caso_CancelacionesHoteleras-RADL">
+<img src="https://img.shields.io/badge/VER_PROYECTO-142B3A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                      FOOTER                       -->
+<!-- ================================================= -->
+
+<div align="center">
+
+### CONECTEMOS
+
+<a href="https://github.com/Alexjr-d">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/alex-d-9749192aa/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+*Data • Analysis • Insights*
+
+</div>
