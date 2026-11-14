@@ -46,7 +46,7 @@ Estudiante de Ingeniería Electrónica con interés en el análisis de datos y l
 
 ## 02. Tecnologías y herramientas
 
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### DATA ANALYTICS
 
