@@ -1,3 +1,4 @@
+
 <!-- ================================================= -->
 <!--                HEADER / DASHBOARD                 -->
 <!-- ================================================= -->
@@ -6,7 +7,7 @@
 
 # ALEX DIAZ
 
-### Data Analyst | SQL | Python | Power BI
+### Data Analyst | SQL Server | Python | Power BI
 
 **Estudiante de Ingeniería Electrónica | Lima, Perú**
 
@@ -15,7 +16,7 @@ Transformando datos en información para tomar decisiones.
 <br>
 
 <img src="https://img.shields.io/badge/DATA_ANALYTICS-142B3A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
@@ -29,13 +30,11 @@ Transformando datos en información para tomar decisiones.
 
 ## 01. Sobre mí
 
-Estudiante de Ingeniería Electrónica con interés en el análisis de datos y la tecnología.<br>Cuento con conocimientos en SQL, Python, Excel y Power BI para la limpieza, análisis y visualización de datos.
-<br>Comprometido con el aprendizaje continuo y la resolución de problemas mediante soluciones basadas en datos.<br>En este repositorio comparto proyectos personales, académicos y colaborativos que reflejan mi compromiso con la mejora continua y el aprendizaje constante ante los cambios tecnológicos.
 Estudiante de Ingeniería Electrónica con interés en el análisis de datos y la tecnología. Cuento con conocimientos en SQL, Python, Excel y Power BI para la limpieza, análisis y visualización de datos.
 <br>Comprometido con el aprendizaje continuo y la resolución de problemas mediante soluciones basadas en datos.En este repositorio comparto proyectos personales, académicos y colaborativos que reflejan mi compromiso con la mejora continua y el aprendizaje constante ante los cambios tecnológicos.
 
 - Análisis, limpieza y transformación de datos.
-- Consultas SQL y análisis exploratorio con Python.
+- Consultas SQL Server y análisis exploratorio con Python.
 - Desarrollo de reportes y dashboards en Excel y Power BI.
 - Aprendizaje continuo y resolución de problemas.
 
@@ -51,7 +50,7 @@ Estudiante de Ingeniería Electrónica con interés en el análisis de datos y l
 
 ### DATA ANALYTICS
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -81,7 +80,7 @@ Estudiante de Ingeniería Electrónica con interés en el análisis de datos y l
 | Indicador | Descripción |
 |:---|:---|
 | Dataset | 119,390 reservas |
-| Herramientas | SQL, Python, Databricks |
+| Herramientas | SQL Server, Python, Databricks |
 | Procesamiento | Limpieza y transformación |
 | Análisis | JOINs, indicadores y tasas de cancelación |
 
