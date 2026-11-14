@@ -30,7 +30,7 @@ Transformando datos en información para tomar decisiones.
 
 ## 01. Sobre mí
 
-Soy estudiante de Ingeniería Electrónica con orientación al análisis de datos y la tecnología. Me interesa transformar grandes volúmenes de información en insights que contribuyan a una mejor toma de decisiones.
+Estudiante de Ingeniería Electrónica con interés en el análisis de datos y la tecnología.<br>Cuento con conocimientos en SQL, Python, Excel y Power BI para la limpieza, análisis y visualización de datos.<br>He desarrollado proyectos de análisis de datos utilizando Databricks para identificar patrones y generar información útil para la toma de decisiones.<br>Comprometido con el aprendizaje continuo y la resolución de problemas mediante soluciones basadas en datos.<br>En este repositorio comparto proyectos personales, académicos y colaborativos que reflejan mi compromiso con la mejora continua y el aprendizaje constante ante los cambios tecnológicos.
 
 - Análisis, limpieza y transformación de datos.
 - Consultas SQL y análisis exploratorio con Python.
